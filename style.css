@@ -1,0 +1,66 @@
+
+    
+   
+        body{
+            background-color:silver;
+            color:white;
+            padding: 20px;
+            font-size: large;
+        }
+     h1{
+         background-color:rgb(182, 121, 121);
+
+         padding: inherit;
+         color:light-grey
+     }
+     p{
+         padding:5px;
+         margin:0px;
+     }
+     p.fourteen{
+         background-color:rgb(3, 3, 134)
+
+     }
+     p.thirteen{
+         background-color:rgb(26, 26, 129)
+     }
+     p.twevlve{
+    background-color:rgb(32, 32, 170);
+     }
+     p.eleven{
+         background-color: rgb(41, 41, 231);
+     }
+     p.ten{
+         background-color: rgb(50, 50, 255);
+     }
+     p.nine{
+         background-color: rgb(58, 58, 247);
+     }
+     p.eight{
+         background-color: rgb(117, 117, 245);
+     }
+     p.seven{
+         background-color: green;
+     }
+     p.six{
+         background-color: #751222;
+     }
+     p.five{
+         background-color: rgb(179, 53, 74);
+     }
+     p.four{
+         background-color: rgb(168, 88, 101);
+     }
+     p.three{
+         background-color: rgb(143, 88, 96);
+     }
+     p.two{
+         background-color: rgb(151, 93, 105);
+     }
+     p.one{
+         background-color: rgb(221, 138, 152);
+     }
+     p.zero{
+         background-color: rgb(226, 183, 191);
+     }
+     .border{border-width: thick; border-style: dashed; border-color: purple;}
